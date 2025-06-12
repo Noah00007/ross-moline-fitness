@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ross Moline Fitness</title>
+  <link rel="stylesheet" href="ross-moline.css" />
+</head>
+<body>
+
+  <header>
+    <h1>ROSS MOLINE FITNESS</h1>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href= "#summer-camp">Programs</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="banner-wrapper wrapper-content">
+    <div class="container">
+      <div class="position-relative hero_banner-content">
+        <div class="chevron">
+          <!-- SVG chevron stays the same -->
+        </div>
+        <div class="row">
+          <div class="col col-lg-12 text-white text-align-left p-4 p-md-0" role="region" aria-label="Hero Banner">
+            <h2 class="block-title">A place for all to belong.</h2>
+            <div class="hero_banner-body lead">
+              <p>&nbsp;Discover how we can help you be your best self.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <section class="intro">
+      <h2>Welcome to Ross Moline Fitness</h2>
+      <p>At Ross Moline Fitness, we believe in empowering athletes and individuals at every level to achieve their personal best. Whether you're training for your first 5K or building explosive strength for elite competition, we provide structured training, expert coaching, and supportive community.</p>
+    </section>
+
+    <section class="training-section">
+      <div class="training-block">
+        <h3>Endurance Training</h3>
+        <p>Our endurance programs are designed to help you develop cardiovascular stamina, mental resilience, and long-lasting energy. We offer plans for runners, cyclists, triathletes, and general fitness enthusiasts.</p>
+      </div>
+
+      <div class="training-block">
+        <h3>Strength Training</h3>
+        <p>From foundational strength to peak performance, we guide athletes through progressive resistance training tailored to their goals. We specialize in functional strength, powerlifting fundamentals, and injury prevention.</p>
+      </div>
+    </section>
+
+    <section class="cta-section">
+      <h2>Start Your Journey Today</h2>
+      <p>Ready to elevate your performance? Join our training programs and be part of a team that lifts each other up.</p>
+      <a class="cta-button" href="#">Get Started</a>
+    </section>
+  </main>
+
+  <footer>
+    <section class="summer-camp" id="summer-camp">
+        <div class="camp-container">
+          <h2>🔥 Summer Training Camp 2025</h2>
+          <p>Join our exclusive summer camp designed for student-athletes! This intensive program focuses on building endurance, explosive strength, and athletic discipline over a 4-week period.</p>
+          
+          <ul>
+            <li>✓ Age groups: 13–18</li>
+            <li>✓ Morning & afternoon sessions</li>
+            <li>✓ Nutrition & recovery education</li>
+            <li>✓ Guest coaching sessions</li>
+          </ul>
+      
+          <p><strong>Camp Dates:</strong> July 1 – August 23, 2025</p>
+          <p><strong>Location:</strong> Ross Moline Training Facility, Main Gym</p>
+      
+          <a class="cta-button" href="#">Register Now</a>
+        </div>
+      </section>
+      
+    <p>&copy; 2025 Ross Moline Fitness | All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
